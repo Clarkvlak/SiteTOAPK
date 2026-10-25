@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Web2APK Studio</string>
+    <string name="studio_subtitle">Native Android Website Wrapper &amp; APK Builder</string>
+    <string name="quick_launch_title">Instant Website Wrapper</string>
+    <string name="quick_launch_hint">https://your-website.com</string>
+    <string name="launch_live_wrapper">Launch Live Wrapper</string>
+    <string name="create_app_profile">New Wrapper Profile</string>
+    <string name="edit_app_profile">Edit Wrapper Profile</string>
+    <string name="saved_profiles_title">Saved Web App Profiles</string>
+    <string name="apk_export_guide_title">Export as Standalone APK</string>
+    <string name="kiosk_mode_active">Standalone APK Boot Active</string>
+    <string name="offline_title">Connection Unavailable</string>
+    <string name="offline_subtitle">Unable to reach the target host. Check your network connection or try reloading.</string>
+    <string name="retry_connection">Retry Connection</string>
+    <string name="exit_to_studio">Exit to Wrapper Studio</string>
+    <string name="js_bridge_reference">Android JS Bridge API</string>
+</resources>

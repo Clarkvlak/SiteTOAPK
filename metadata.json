@@ -1,0 +1,6 @@
+{
+  "name": "Web2APK Studio",
+  "description": "Convert any website or web app into a full-featured native Android APK wrapper with custom navigation, CSS/JS injection, offline fallback, and standalone kiosk mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
